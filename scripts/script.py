@@ -15,3 +15,7 @@ print('Hello World')
 # AUTHOR: anwar907
 # GITHUB: https://github.com/anwar907
 print('today is holiday')
+
+# AUTHOT: azmi155
+# GITHUB: https://github.com/azmi155
+print("Proud of Your Code")
