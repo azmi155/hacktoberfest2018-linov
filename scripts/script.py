@@ -18,4 +18,4 @@ print('today is holiday')
 
 # AUTHOT: azmi155
 # GITHUB: https://github.com/azmi155
-print("Proud of Your Code")
+print('Proud of Your Code')
